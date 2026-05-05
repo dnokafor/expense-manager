@@ -9,7 +9,7 @@ Expense Manager is an open-source expense tracking and visualization app develop
 ## Features
 
 📊 **Dashboard Overview** — Visualize your financial data with interactive widgets like pie charts and income vs. expense trends.
-
+ 
 ✍️ **Track Transactions** — Add, edit, and delete income and expense entries with support for categories, descriptions, dates, and amounts.
 
 🔍 **Advanced Filtering** — Search and filter transactions by category, date range, cost, and more with interactive controls.
